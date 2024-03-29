@@ -1,7 +1,13 @@
 # Portfolio Site
+This is a Flask portfolio website that I developed alongside my peer Shenguan Lu during the Major League Hacking Fellowship Site Reliability Engineering track with Meta. 
 
 ## Features
-TODO:
+- CI/CD Pipeline via Github Actions
+- Automated Python unit tests with 88% coverage
+- NGINX Reverse Proxy + An SSL Certificate for HTTPS communication
+- Containerized Flask Application & Database for smooth development
+- Automated monitoring and logging via Prometheus and Grafana
+
 
 ## Screenshots
 ![Screenshot 2023-06-28 at 10 15 22](https://github.com/shengyuan-lu/mlh-sre-fellowship-portfolio/assets/70995597/f27cb223-e38a-47d1-9e38-aec622b5f4f5)
